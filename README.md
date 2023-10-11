@@ -18,8 +18,8 @@ You can try the app live [here](https://weatherapp.vietho.ca).
 ## Quick Start Guide
 
 ```bash
-git clone https://github.com/viet-ho/Weather-App.git
-cd Weather-App
+git clone https://github.com/viet-ho/GPS-Weather-App.git
+cd GPS-Weather-App
 google-chrome index.html
 ```
 
